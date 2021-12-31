@@ -1,6 +1,6 @@
 # bucket_list
 
-2022  
+# 2022  
 去旅游一次  
 把little_dinosaur写完  
 参见一次ai竞赛  
