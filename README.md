@@ -1,9 +1,9 @@
 # bucket_list
 
 # 2024 
-next.js
-身体好一点
-开心
+next.js  
+身体好一点  
+开心  
 
 
 # 2023  
