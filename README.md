@@ -1,4 +1,7 @@
 # bucket_list
+# 2025
+冲啊
+加油！
 
 # 2024 
 next.js  
